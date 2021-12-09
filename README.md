@@ -21,6 +21,16 @@ Es posible que al iniciarse el navegador aparezca el siguiente mensaje de advert
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/main/images/2021-12-09%2010_43_26-Este%20sitio%20no%20es%20seguro.%20-%20Internet%20Explorer.png)
 
-En caso que aparezca se pulsa la opción Continuar en la página werb (no recomendado) :) y ya aparece el panel del usuario con el que nos hemos logado y las tiles que tiene accesible organizadas por secciones, como en este caso son Custon Code Management, Change Management o Test Suite.
+En caso que aparezca se pulsa la opción Continuar en la página werb (no recomendado) :) y ya aparece el panel del usuario con el que nos hemos logado y las tiles que tiene accesible organizadas por secciones, como en este caso son Custon Code Management, Change Management o Test Suite.![](https://github.com/apachon/sap-sm-sea-bpca/blob/e7e44c9375a6e75cf5e2f99121888a26179aaa9d/images/2021-12-09%2010_46_42-SAP%20Easy%20Access%20%20-%20%20User%20Menu%20for%20ANGEL%20PACHON.png)
 
-![](https://github.com/apachon/sap-sm-sea-bpca/blob/e7e44c9375a6e75cf5e2f99121888a26179aaa9d/images/2021-12-09%2010_46_42-SAP%20Easy%20Access%20%20-%20%20User%20Menu%20for%20ANGEL%20PACHON.png)
+
+
+## SEA
+
+El análisis de SEA se basa basa en las estadísticas de uso y en las relaciones de **Boom of Materials (BOMs)** de los objetos de primer nivel, para proporcionar el listado de ejecutables (Transacciones y Programas) que se tienen que validar durante las pruebas. Por medio del **Test Scope Optimizer (TSO)** es capaz de calcular la combinación de ejecutables óptima para reducir el número de pruebas.
+
+Se recomienda ejecutar en análisis SEA en horas en las que no haya mucha carga de trabajo en el sistema, ya que la generación de BOMs genera una carga importante en el sistema.
+
+### Ejecución de análisis SEA
+
+Se ejecuta el tile 
