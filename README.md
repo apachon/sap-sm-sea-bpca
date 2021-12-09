@@ -34,3 +34,9 @@ Se recomienda ejecutar en análisis SEA en horas en las que no haya mucha carga 
 ### Ejecución de análisis SEA
 
 Se ejecuta el tile 
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/d7b018c9948243739601ec9f5befa30a07e06de4/images/2021-12-09%2011_15_35-Home%20-%20Internet%20Explorer.png)
+
+Y se selecciona la opción **New** para crear un nuevo análisis
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/ffa90212a1d15d63fc86f2ca0e3ee7beb8b3c148/images/2021-12-09%2011_18_28-Scope%20and%20Effort%20Analyzer%20-%20Internet%20Explorer.png)
