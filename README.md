@@ -19,8 +19,8 @@ Se accederá a está herramientas accediendo a la transacción **SM_WORKCENTER -
 
 Es posible que al iniciarse el navegador aparezca el siguiente mensaje de advertencia.
 
-![](D:\Users\angel.pachon\Documents\GitHub\sap%20sm%20-%20sea%20&%20bpca\images\2021-12-09%2010_43_26-Este%20sitio%20no%20es%20seguro.%20-%20Internet%20Explorer.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/main/images/2021-12-09%2010_43_26-Este%20sitio%20no%20es%20seguro.%20-%20Internet%20Explorer.png)
 
 En caso que aparezca se pulsa la opción Continuar en la página werb (no recomendado) :) y ya aparece el panel del usuario con el que nos hemos logado y las tiles que tiene accesible organizadas por secciones, como en este caso son Custon Code Management, Change Management o Test Suite.
 
-![](D:\Users\angel.pachon\Documents\GitHub\sap%20sm%20-%20sea%20&%20bpca\images\2021-12-09%2010_46_42-SAP%20Easy%20Access%20%20-%20%20User%20Menu%20for%20ANGEL%20PACHON.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/e7e44c9375a6e75cf5e2f99121888a26179aaa9d/images/2021-12-09%2010_46_42-SAP%20Easy%20Access%20%20-%20%20User%20Menu%20for%20ANGEL%20PACHON.png)
