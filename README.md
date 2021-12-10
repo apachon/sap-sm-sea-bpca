@@ -37,7 +37,7 @@ Y se selecciona la opción **New** para crear un nuevo análisis
 
 Se selecciona el sistema y la versión a analizar. Previamente deberá estar creado el maintenance planner con los cambios que se van a realizar.
 
-> El maintance planner id es un documento que se crea desde el Marketplace de SAP cuando dices a que Enhacement o nivel de Packages quieres subir te genera este documento, el usuario con el que se genera el análisis SEA debe tener permisos para ver estos documentos desde el OSS.
+> El maintance planner id es un documento que se crea desde el Marketplace de SAP cuando dices a que Enhacement o nivel de Packages quieres subir te genera este documento, el usuario con el que se genera el análisis SEA debe tener permisos para ver estos documentos desde el OSS. Esta parte normalmente viene dada por el equipo de BASIS que nos tiene que informar en cada caso que Maintance Planner ID seleccionar.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/4b171454b5e27a51340eb79b7c92e22bf3692b2a/images/2021-12-09%2011_39_10-Create%C2%A0Analysis_%C2%A0Step%C2%A01%C2%A0%C2%A0(Select%C2%A0System%C2%A0and%C2%A0Assign%C2%A0Maintenance%C2%A0Plan)%20-%20Internet%20.png)
 
@@ -46,5 +46,7 @@ Se selecciona el Planner Transaction Id
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/f7148c5736fb6236a9fd9c3cf50f3a25ba0089bd/images/2021-12-09%2011_43_39-Create%C2%A0Analysis_%C2%A0Step%C2%A01%C2%A0%C2%A0(Select%C2%A0System%C2%A0and%C2%A0Assign%C2%A0Maintenance%C2%A0Plan)%20-%20Internet%20.png)
 
 Se especifica el sistema dónde están los desarrollos, el sistema dónde están las estadisticas y dónde está el sistema en el que se va a realizar la optimización del test.
+
+Aquí se recomienta informar los sistemas de producción para los dos primeros apartados, dónde están los objetos custom y modificaciones a analizar y las estadísticas. En cambio se recomienda informar un entorno no productivo para el Test Scope Optimization para no sobrecargar el entorno de producción.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/99dc235b0cb336ecd9d59d687521694afb08264e/images/2021-12-09%2011_58_49-Create%C2%A0Analysis_%C2%A0Step%C2%A02%C2%A0%C2%A0(Specify%C2%A0Additional%C2%A0Systems)%20-%20Internet%20Explorer.png)
