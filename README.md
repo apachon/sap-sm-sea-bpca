@@ -6,14 +6,10 @@
 
 **Business Process Change Analyzer** (BPCA en adelante) realiza un análisis sobre el impacto que tendrán los cambios en los procesos de negocio.
 
-
-
 Tanto el análisis de SEA como de BPCA se realiza teniendo en cuenta las estadísticas de uso del sistema, se recomienda contar con estadísticas actualizadas de al menos 3 meses previos a la ejecución de uno u otro análisis.
 Así mismo, la ejecución de SEA es una herramienta orientativa, pensada para la fase de planificación de proyectos, y sus resultados no deben considerarse como única fuente para la ejecución del mismo. 
 
 BPCA necesitara estar alimentado de los casos de tests para ser más eficiente en su resultado. 
-
-
 
 Se accederá a está herramientas accediendo a la transacción **SM_WORKCENTER - Solution Manager: Work Centers URL.**
 
@@ -22,8 +18,6 @@ Es posible que al iniciarse el navegador aparezca el siguiente mensaje de advert
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/main/images/2021-12-09%2010_43_26-Este%20sitio%20no%20es%20seguro.%20-%20Internet%20Explorer.png)
 
 En caso que aparezca se pulsa la opción Continuar en la página werb (no recomendado) :) y ya aparece el panel del usuario con el que nos hemos logado y las tiles que tiene accesible organizadas por secciones, como en este caso son Custon Code Management, Change Management o Test Suite.![](https://github.com/apachon/sap-sm-sea-bpca/blob/e7e44c9375a6e75cf5e2f99121888a26179aaa9d/images/2021-12-09%2010_46_42-SAP%20Easy%20Access%20%20-%20%20User%20Menu%20for%20ANGEL%20PACHON.png)
-
-
 
 ## SEA
 
@@ -42,6 +36,8 @@ Y se selecciona la opción **New** para crear un nuevo análisis
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/ffa90212a1d15d63fc86f2ca0e3ee7beb8b3c148/images/2021-12-09%2011_18_28-Scope%20and%20Effort%20Analyzer%20-%20Internet%20Explorer.png)
 
 Se selecciona el sistema y la versión a analizar. Previamente deberá estar creado el maintenance planner con los cambios que se van a realizar.
+
+> El maintance planner id es un documento que se crea desde el Marketplace de SAP cuando dices a que Enhacement o nivel de Packages quieres subir te genera este documento, el usuario con el que se genera el análisis SEA debe tener permisos para ver estos documentos desde el OSS.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/4b171454b5e27a51340eb79b7c92e22bf3692b2a/images/2021-12-09%2011_39_10-Create%C2%A0Analysis_%C2%A0Step%C2%A01%C2%A0%C2%A0(Select%C2%A0System%C2%A0and%C2%A0Assign%C2%A0Maintenance%C2%A0Plan)%20-%20Internet%20.png)
 
