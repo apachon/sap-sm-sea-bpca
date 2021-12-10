@@ -49,4 +49,4 @@ Se especifica el sistema dónde están los desarrollos, el sistema dónde están
 
 Aquí se recomienta informar los sistemas de producción para los dos primeros apartados, dónde están los objetos custom y modificaciones a analizar y las estadísticas. En cambio se recomienda informar un entorno no productivo para el Test Scope Optimization para no sobrecargar el entorno de producción.
 
-![](https://github.com/apachon/sap-sm-sea-bpca/blob/99dc235b0cb336ecd9d59d687521694afb08264e/images/2021-12-09%2011_58_49-Create%C2%A0Analysis_%C2%A0Step%C2%A02%C2%A0%C2%A0(Specify%C2%A0Additional%C2%A0Systems)%20-%20Internet%20Explorer.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/a0072610a51e23a584b8ce268843d38bacb7f389/images/2021-12-09%2011_58_49-Create%C2%A0Analysis_%C2%A0Step%C2%A02%C2%A0%C2%A0(Specify%C2%A0Additional%C2%A0Systems)%20-%20Internet%20Explorer.png)
