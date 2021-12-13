@@ -1,4 +1,4 @@
-# Solution Manager Scope Effor Anlyzer (SEA) y Business Process Change Analyzer (BPCA).
+# Solution Manager Scope Effor Anlyzer (SEA) y Business Process Change Analyzer (BPCA)
 
 ## Introducción
 
