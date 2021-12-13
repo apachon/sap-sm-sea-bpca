@@ -112,5 +112,22 @@ Se accede a la transacción **SM_WORKCENTER - Solution Manager: Work Centers URL
 
 Se selecciona la opción del tipo de impacto que queremos analizar, en nuestro caso el análisis de impacto de transportar una orden de transporte, es decir, se selcciona la opción **Transport Requests**.
 
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/9530a124fbcf46735eb5f07fb068d953c79a3962/images/2021-12-13%2020_05_23-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+Se selecciona el sistema y el mandante donde está la orden con los cambios a analizar.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/9bc8200d2f187bc25f7a4ff9ad78273bd2c5d666/images/2021-12-13%2020_08_58-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+Se selecciona la orden.
+
+
+
+
+
+
+
+
+
+
 
 
