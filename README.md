@@ -108,5 +108,5 @@ Se accede a la transacción **SM_WORKCENTER - Solution Manager: Work Centers URL
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/19edcd905e7096f88e8f889adcbd69371de3e193/images/2021-12-13%2015_35_53-Home%20-%20Internet%20Explorer.png)
 
-
+Se selecciona la opción del tipo de impacto que queremos analizar, en nuestro caso el análisis de impacto de transportar una orden de transporte, es decir, se selcciona la opción **Transport Requests**.
 
