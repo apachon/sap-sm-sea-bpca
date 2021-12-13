@@ -53,4 +53,12 @@ Aquí se recomienta informar los sistemas de producción para los dos primeros a
 
 Una vez completado este paso se selecciona la Solución y la Branch.
 
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/22bbfa331c05c4f87fc85d4729a149f1f70ead9f/images/2021-12-13%2011_39_11-Create%C2%A0Analysis_%C2%A0Step%C2%A03%C2%A0%C2%A0(Specify%C2%A0Solution%C2%A0Documentation)%20-%20Internet%20Explorer.png)
+
+Posteriormente se debe indicar el alcance del test a realizar, para este caso concreo se selecciona un alcance creado que no tiene ningún tipo de filtro y se analiza el 100% del alcance.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/8176826168a0d00640110f58ce5bc4430f3069a0/images/2021-12-13%2012_17_45-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+Se selecciona el alcance creado.
+
 ![]()
