@@ -61,4 +61,8 @@ Posteriormente se debe indicar el alcance del test a realizar, para este caso co
 
 Se selecciona el alcance creado.
 
-![]()
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/8ddb2f6bef5583affc18bbf9cba6090eaf95e07b/images/2021-12-13%2012_21_54-Create%C2%A0Analysis_%C2%A0Step%C2%A04%C2%A0%C2%A0(Specify%C2%A0Test%C2%A0Scope)%20-%20Internet%20Explorer.png)
+
+Y por último en el últiomo paso antes de lanzar análisis se revisan toda la configuración que se ha relizado del análisis.
+
+Una vez validado se puede lanzar análisis Start Analysis.
