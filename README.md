@@ -72,7 +72,9 @@ Una vez validado se puede lanzar análisis **Start Analysis**.
 ## BPCA
 
 El escenario de BPCA es una utilidad de Solution Manager que permite identificar el impacto que pueden producir los cambios.
-Verificar que se ha ejecutado correctamente el job de carga de TBOMs. El job esta programado cada 3 semanas. 
+Verificar que se ha ejecutado correctamente el job de carga de TBOMs. El job esta programado cada 3 semanas.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/a19e0a9714f5aab14e8833ae3e64d24a9e198a23/images/2021-12-13%2016_09_42-Job%20Overview.png)
 
 ### Puntos Críticos
 
@@ -109,4 +111,6 @@ Se accede a la transacción **SM_WORKCENTER - Solution Manager: Work Centers URL
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/19edcd905e7096f88e8f889adcbd69371de3e193/images/2021-12-13%2015_35_53-Home%20-%20Internet%20Explorer.png)
 
 Se selecciona la opción del tipo de impacto que queremos analizar, en nuestro caso el análisis de impacto de transportar una orden de transporte, es decir, se selcciona la opción **Transport Requests**.
+
+
 
