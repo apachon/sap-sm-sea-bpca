@@ -39,7 +39,7 @@ Se selecciona el sistema y la versión a analizar. Previamente deberá estar cre
 
 > El maintance planner id es un documento que se crea desde el Marketplace de SAP cuando dices a que Enhacement o nivel de Packages quieres subir te genera este documento, el usuario con el que se genera el análisis SEA debe tener permisos para ver estos documentos desde el OSS. Esta parte normalmente viene dada por el equipo de BASIS que nos tiene que informar en cada caso que Maintance Planner ID seleccionar.
 
-![](https://github.com/apachon/sap-sm-sea-bpca/blob/4b171454b5e27a51340eb79b7c92e22bf3692b2a/images/2021-12-09%2011_39_10-Create%C2%A0Analysis_%C2%A0Step%C2%A01%C2%A0%C2%A0(Select%C2%A0System%C2%A0and%C2%A0Assign%C2%A0Maintenance%C2%A0Plan)%20-%20Internet%20.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/8502e46e652176a7c4eca2309a05f448ead78805/images/2021-12-13%2011_11_18-Create%C2%A0Analysis_%C2%A0Step%C2%A01%C2%A0%C2%A0(Select%C2%A0System%C2%A0and%C2%A0Assign%C2%A0Maintenance%C2%A0Plan)%20-%20Internet%20.png)
 
 Se selecciona el Planner Transaction Id
 
@@ -50,3 +50,7 @@ Se especifica el sistema dónde están los desarrollos, el sistema dónde están
 Aquí se recomienta informar los sistemas de producción para los dos primeros apartados, dónde están los objetos custom y modificaciones a analizar y las estadísticas. En cambio se recomienda informar un entorno no productivo para el Test Scope Optimization para no sobrecargar el entorno de producción.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/a0072610a51e23a584b8ce268843d38bacb7f389/images/2021-12-09%2011_58_49-Create%C2%A0Analysis_%C2%A0Step%C2%A02%C2%A0%C2%A0(Specify%C2%A0Additional%C2%A0Systems)%20-%20Internet%20Explorer.png)
+
+Una vez completado este paso se selecciona la Solución y la Branch.
+
+![]()
