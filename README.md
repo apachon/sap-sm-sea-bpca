@@ -83,3 +83,10 @@ Hay cuatro puntos críticos a los que hay que enfrentarse cuando se produce un c
 - Setup del sistema para testeos y mantenimiento de los juegos de datos.
 - Esfuerzo para la creación y mantenimiento de pruebas automáticas.
 
+### Dar Solución esos puntos
+
+1.	SAP Solution Manager actúa como Hub central para controlar eventos de cambio y testeos integrados E2E.
+2.	Funcionalidad para planificación de testeos basándose en riesgo. Pruebas de funcionales y de regresión.
+3.	Interfases a Partner test Suites.
+
+
