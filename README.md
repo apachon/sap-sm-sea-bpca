@@ -85,8 +85,23 @@ Hay cuatro puntos críticos a los que hay que enfrentarse cuando se produce un c
 
 ### Dar Solución esos puntos
 
-1.	SAP Solution Manager actúa como Hub central para controlar eventos de cambio y testeos integrados E2E.
-2.	Funcionalidad para planificación de testeos basándose en riesgo. Pruebas de funcionales y de regresión.
-3.	Interfases a Partner test Suites.
+1. SAP Solution Manager actúa como Hub central para controlar eventos de cambio y testeos integrados E2E.
+2. Funcionalidad para planificación de testeos basándose en riesgo. Pruebas de funcionales y de regresión.
+3. Interfases a Partner test Suites.
+
+### Casos de Uso
+
+Se identifican 4 casos de uso para los que aplica BPCA:
+
+1. Cambio de Customizing.
+Se produce una modificación en el Customizing que afecta a un proceso de negocio. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
+2.	Desarrollo Custom.
+Se realiza una modificación en un objeto Custom como un programa, módulo de función, clase, etc. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
+3.	Activación de EhP Business Function planificado.
+El despliegue de un EhP provoca la activación de una Business Function. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
+4.	Optimización del alcance de las pruebas necesarias por el despliegue de un SP/EhP.
+Se debe realizar el despliegue de un SP o un EhP SAP. BPCA permite analizar el alcance del impacto de este cambio sobre los procesos de negocio y calcular el esfuerzo a realizar para generar un plan de pruebas optimizado.
+
+### Crear análisis BPCA
 
 
