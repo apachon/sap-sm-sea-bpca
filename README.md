@@ -65,6 +65,21 @@ Se selecciona el alcance creado.
 
 Y por último en el últiomo paso antes de lanzar análisis se revisan toda la configuración que se ha relizado del análisis.
 
-Una vez validado se puede lanzar análisis Start Analysis.
+Una vez validado se puede lanzar análisis **Start Analysis**.
 
 ### Análisis SEA
+
+## BPCA
+
+El escenario de BPCA es una utilidad de Solution Manager que permite identificar el impacto que pueden producir los cambios.
+Verificar que se ha ejecutado correctamente el job de carga de TBOMs. El job esta programado cada 3 semanas. 
+
+### Puntos Críticos
+
+Hay cuatro puntos críticos a los que hay que enfrentarse cuando se produce un cambio en un sistema con distintos procesos de negocio.
+
+- Pruebas en Landscapes con sistemas heterógeneos
+- Soluciones de Update de SAP que afectan a objetos críticos en un proceso de negocio
+- Setup del sistema para testeos y mantenimiento de los juegos de datos.
+- Esfuerzo para la creación y mantenimiento de pruebas automáticas.
+
