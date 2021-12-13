@@ -66,3 +66,5 @@ Se selecciona el alcance creado.
 Y por último en el últiomo paso antes de lanzar análisis se revisan toda la configuración que se ha relizado del análisis.
 
 Una vez validado se puede lanzar análisis Start Analysis.
+
+### Análisis SEA
