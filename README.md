@@ -128,7 +128,7 @@ Se selecciona la solucion, el branch y la vista. Que es el alcance del análisis
 
 Por último se añade una descripción al análisis.
 
-![](https://github.com/apachon/sap-sm-sea-bpca/blob/c81e7b79c3601c0ba8bf08edab363ba315897c62/images/2021-12-14%2010_45_18-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/0204cd740105169697230d0bbbc041edc5f29f1d/images/2021-12-14%2010_47_45-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
 
 En parámetros opcionales se podrá definir el TSO (Test Scope Optimization)
 TSO es una herramienta que se puede utilizar una vez realizado el análisis. Muestra estadísticas del análisis que facilitan la toma de decisiones para realizar los tests necesarios una vez realizada la modificación. 
