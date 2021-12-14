@@ -140,3 +140,5 @@ También permite recomendar casos de Test que cubran un porcentaje determinado d
 Por último se lanza el análisis.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/a32441e92209b89f5606ef2637946b5c51fa239f/images/2021-12-14%2010_52_13-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+Una vez finalizado mostrará los resultados y se podrán revisar e ir creando los casos de test necesarios para ir documentando los procesos de negocio con sus respectivos tests.
