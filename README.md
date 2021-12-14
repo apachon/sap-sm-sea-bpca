@@ -120,7 +120,9 @@ Se selecciona el sistema y el mandante donde está la orden con los cambios a an
 
 Se selecciona la orden, para ello hay que entrar mediante matchcode y buscar la orden concreta.
 
-![](https://github.com/apachon/sap-sm-sea-bpca/blob/e53a9095f925d06f42e65218a6c9ba5bf554ffce/images/2021-12-14%2010_35_56-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+> En esta prueba la orden tiene la modificación de un módulo de funciones estándar que es llamado desde la EXIT **MV50AFZ1** **Userexit a partir de 21D para tratamiento de entregas**
+> 
+> A tener en cuenta para comprobar que tiene sentido con las acciones que obtenemos como resultado en el análisis.
 
 Se selecciona la solucion, el branch y la vista. Que es el alcance del análisis a realizar.
 
