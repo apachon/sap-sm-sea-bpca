@@ -2,7 +2,7 @@
 
 ## Introducción
 
-**Solution Manager Scope Effor Anlyzer** (SEA en adelnate) permite realizar un análisis inicial en el caso que se realice algún proyecto de actualización que permitirá tener información sobre el impacto del cambio, tanto a nivel de código, como para estimar las pruebas necesarias, para validar la nueva configuración.
+**Solution Manager Scope Effor Anlyzer** (SEA en adelante) permite realizar un análisis inicial en el caso que se realice algún proyecto de actualización que permitirá tener información sobre el impacto del cambio, tanto a nivel de código, como para estimar las pruebas necesarias, para validar la nueva configuración.
 
 **Business Process Change Analyzer** (BPCA en adelante) realiza un análisis sobre el impacto que tendrán los cambios en los procesos de negocio.
 
