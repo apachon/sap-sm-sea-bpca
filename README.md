@@ -96,13 +96,13 @@ Hay cuatro puntos críticos a los que hay que enfrentarse cuando se produce un c
 Se identifican 4 casos de uso para los que aplica BPCA:
 
 1. **Cambio de Customizing**.
-Se produce una modificación en el Customizing que afecta a un proceso de negocio. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
-2.	**Desarrollo Custom**.
-Se realiza una modificación en un objeto Custom como un programa, módulo de función, clase, etc. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
-3.	**Activación de EhP Business Function planificado**.
-El despliegue de un EhP provoca la activación de una Business Function. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
-4.	**Optimización del alcance de las pruebas necesarias por el despliegue de un SP/EhP**.
-Se debe realizar el despliegue de un SP o un EhP SAP. BPCA permite analizar el alcance del impacto de este cambio sobre los procesos de negocio y calcular el esfuerzo a realizar para generar un plan de pruebas optimizado.
+   Se produce una modificación en el Customizing que afecta a un proceso de negocio. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
+2. **Desarrollo Custom**.
+   Se realiza una modificación en un objeto Custom como un programa, módulo de función, clase, etc. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
+3. **Activación de EhP Business Function planificado**.
+   El despliegue de un EhP provoca la activación de una Business Function. Hay que identificar qué procesos de negocio se ven afectados y planificar así las pruebas que es necesario realizar para asegurar que ese cambio funciona correctamente.
+4. **Optimización del alcance de las pruebas necesarias por el despliegue de un SP/EhP**.
+   Se debe realizar el despliegue de un SP o un EhP SAP. BPCA permite analizar el alcance del impacto de este cambio sobre los procesos de negocio y calcular el esfuerzo a realizar para generar un plan de pruebas optimizado.
 
 ### Crear análisis BPCA
 
@@ -118,16 +118,14 @@ Se selecciona el sistema y el mandante donde está la orden con los cambios a an
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/9bc8200d2f187bc25f7a4ff9ad78273bd2c5d666/images/2021-12-13%2020_08_58-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
 
-Se selecciona la orden.
+Se selecciona la orden, para ello hay que entrar mediante matchcode y buscar la orden concreta.
 
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/e53a9095f925d06f42e65218a6c9ba5bf554ffce/images/2021-12-14%2010_35_56-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
 
+Se selecciona la solucion, el branch y la vista. Que es el alcance del análisis a realizar.
 
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/c81e7b79c3601c0ba8bf08edab363ba315897c62/images/2021-12-14%2010_45_18-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
 
+Por último se añade una descripción al análisis.
 
-
-
-
-
-
-
-
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/c81e7b79c3601c0ba8bf08edab363ba315897c62/images/2021-12-14%2010_45_18-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
