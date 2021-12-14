@@ -159,7 +159,7 @@ En la pestaña **Test Case Recomendations**
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/4fe5b742115bb30d08398364a6091d633f3be177/images/2021-12-14%2017_28_23-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
 
-Vemos un remumen que nos indica cosas interesantes como que crear un script para realizar esta prueba de manera automática costaría unas 20 horas, cada vez que haya que modifcar este script automático nos costaría 3,5 horas. Pero una vez hecho las pruebas nos costarían un esfuerzo de 0,5 horas por las 4 horas de las pruebas manuales, toda esta estimación de esfuerzos es orientativa.
+Vemos un remumen que nos indica cosas interesantes como que crear un script para realizar esta prueba de manera automática y acumulada costaría unas 20 horas, cada vez que haya que modifcar este script automático nos costaría 3,5 horas. Pero una vez hecho las pruebas nos costarían un esfuerzo de 0,5 horas frente a las 4 horas que cuesta hacer las pruebas de manera manual, todas estas estimaciónes de esfuerzos son <u>orientativas</u>.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/0d4ce5a057ebe989a58dc37122d7b777c53cdaba/images/2021-12-14%2017_32_52-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
 
