@@ -146,3 +146,19 @@ Una vez finalizado mostrará los resultados y se podrán revisar e ir creando lo
 Para acceder a los resultados se pulsa el botón Optimize Test Scope.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/b24d863707af2177dfeafd4f92f6ecedc218eecc/images/2021-12-14%2017_00_43-Bandeja%20de%20entrada%20-%20angel.pachon@stratesys-ts.com%20-%20Outlook%20-%20copia.png)
+
+En el apartado **Test Scope Optimization Ranking** en el apartado **Ranked List** se indican las transacciones/ejecutables que hay que habría que probar para cumplir con el 100% de las pruebas. Para esto hay que pulsar el botón **Show Executables**.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/66f4ec42661e74724db65a6ab010384db7353d1b/images/2021-12-14%2017_22_21-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
+
+Aquí se puede observar que con probar las 2 transacciones a probar **FB02** y **DRFOUT** se cubriría el 100% de las pruebas con un esfuerzo acumulado de 4 horas.
+
+En la pestaña **Test Case Recomendations**
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/4fe5b742115bb30d08398364a6091d633f3be177/images/2021-12-14%2017_28_23-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
+
+Vemos un remumen que nos indica cosas interesantes como que crear un script para realizar esta prueba de manera automática costaría unas 20 horas, cada vez que haya que modifcar este script automático nos costaría 3,5 horas. Pero una vez hecho las pruebas nos costarían un esfuerzo de 0,5 horas por las 4 horas de las pruebas manuales, toda esta estimación de esfuerzos es orientativa.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/0d4ce5a057ebe989a58dc37122d7b777c53cdaba/images/2021-12-14%2017_32_52-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
+
+En el resumen final vemos como nos recomienda que se creen New Automated Test Case para cada transacción el esfuerzo de crear cada uno de ellos, el esfuerzo acumulado, el esfuerzo de probar a mano cada una de las transacciones y el esfuerzo de probarlas una vez automatizadas estas pruebas.
