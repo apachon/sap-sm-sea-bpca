@@ -67,7 +67,13 @@ Y por último en el últiomo paso antes de lanzar análisis se revisan toda la c
 
 Una vez validado se puede lanzar análisis **Start Analysis**.
 
-### Análisis SEA
+### Interpretar análisis SEA
+
+#### Overview
+
+#### Details - Modifications / Custom Developments
+
+#### Details - Test Management
 
 ## BPCA
 
