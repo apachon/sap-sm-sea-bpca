@@ -84,10 +84,38 @@ En este apartado se hace un resumen de todo el esfuerzo, lo calcula en días, co
 La grafica muestra la distribución de las modificaciones de los objetos custom en las siguientes tres categorías:
 
 - **Ajustes Requeridos**: Los objetos en esta categoría se verán impactados durante el update y deberán ser revisados minucioisamente después del update para evitar errores. Las modificaciones que están en conflicto con la versión del upgrade y que aparece en las herramientas SPAU y SPDD aparecerán en esta categoría.
+- **Ajustes propuestos:** Los objetos custom que son asignados a esta categoría usan objetos del repositorio de SAP que han sido cambiados en esta nueva versión del producto. Sin embargo, estos objetos no suelen causar ningún problema a la hora de trabajar por lo que podremos evitar ajustar estos objetos a no ser que nos causen algún error o problema en la fase de tests.
+- **Ajustes no necesarios:** En esta categoría aparecen todos los objetos que no son impactados durante el upgrade o que están marcados como no usados. 
 
-#### Details - Modifications / Custom Developments
+En la parte de abajo aparece la grafica de **Regression Test Efforts for Optimized Test Scope** que muestra todos los esfuerzos relacionados con las pruebas de regresión funcional.
+Nos muestra el esfuerdo medido en días que nos supondría realizar todos los test de regresión.
+Muestra los días de esfuerzo que ganaríamos y el porcentaje total de tiempo ahorrado.
 
-#### Details - Test Management
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/ae584b906c70469c7dfcb260bd2e560a4b3dbca7/images/2021-12-17%2016_23_21-sap-sm-sea-bpca_2021-12-17%2016_00_11-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Interne.png)
+
+#### Modifications / Custom Developments
+
+##### Overview
+
+En esta sección nos muestra los objetos que se deben analizar y los divide en objetos que pertenecen a la SPDD, a la SPAU y el impacto por aplicación. Primero nos muestra una imagen global en la que se muestran los siguinetes gráficos para tener una visión global.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/9cd2cb459edd5bfb07a29c4588a33a4704b36a2d/images/2021-12-17%2016_31_50-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+##### ![](https://github.com/apachon/sap-sm-sea-bpca/blob/1e1dcbbbd87fa534000f260025dba2f65f43ee25/images/2021-12-17%2016_39_34-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+##### ![](https://github.com/apachon/sap-sm-sea-bpca/blob/daa4e719a58bd71fe4c3d414bbab7dd0324f5a6a/images/2021-12-17%2016_41_16-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/104b0f57bdd1a00907e368abb61c6e7300b17e63/images/2021-12-17%2016_42_21-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+##### Detail
+
+
+
+#### Test Management
+
+Overview
+
+Detail
 
 ## BPCA
 
