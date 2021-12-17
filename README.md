@@ -101,15 +101,15 @@ En esta sección nos muestra los objetos que se deben analizar y los divide en o
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/9cd2cb459edd5bfb07a29c4588a33a4704b36a2d/images/2021-12-17%2016_31_50-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
-##### ![](https://github.com/apachon/sap-sm-sea-bpca/blob/1e1dcbbbd87fa534000f260025dba2f65f43ee25/images/2021-12-17%2016_39_34-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/1e1dcbbbd87fa534000f260025dba2f65f43ee25/images/2021-12-17%2016_39_34-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
-##### ![](https://github.com/apachon/sap-sm-sea-bpca/blob/daa4e719a58bd71fe4c3d414bbab7dd0324f5a6a/images/2021-12-17%2016_41_16-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/daa4e719a58bd71fe4c3d414bbab7dd0324f5a6a/images/2021-12-17%2016_41_16-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/104b0f57bdd1a00907e368abb61c6e7300b17e63/images/2021-12-17%2016_42_21-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 ##### Detail
 
-
+Para acceder al detalle se puede acceder mediente el desplegable
 
 #### Test Management
 
