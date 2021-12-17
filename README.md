@@ -79,7 +79,7 @@ Una vez dentro se muestra tres pestañas.
 
 En este apartado se hace un resumen de todo el esfuerzo, lo calcula en días, contando como un día laboral de 8 horas y una persona.
 
-![](https://github.com/apachon/sap-sm-sea-bpca/blob/9a1e37dd8d9aa431b06c1560d863f9e0aedb6853/images/2021-12-17%2016_00_11-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/ddf10e102874ff6e4acbbcc80a2ccb8f8f8a1db7/images/2021-12-17%2016_00_11-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 La grafica muestra la distribución de las modificaciones de los objetos custom en las siguientes tres categorías:
 
