@@ -69,7 +69,21 @@ Una vez validado se puede lanzar análisis **Start Analysis**.
 
 ### Interpretar análisis SEA
 
-#### Overview
+Una vez finalizado el análisis se pulsa en el nombre del análisis se accede al analisis realizado.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/50a6677fc43e19161e578114cdadd64297b38f55/images/2021-12-17%2015_42_15-Scope%20and%20Effort%20Analyzer%20-%20Internet%20Explorer.png)
+
+Una vez dentro se muestra tres pestañas.
+
+#### Summary
+
+En este apartado se hace un resumen de todo el esfuerzo, lo calcula en días, contando como un día laboral de 8 horas y una persona.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/9a1e37dd8d9aa431b06c1560d863f9e0aedb6853/images/2021-12-17%2016_00_11-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+La grafica muestra la distribución de las modificaciones de los objetos custom en las siguientes tres categorías:
+
+- **Ajustes Requeridos**: Los objetos en esta categoría se verán impactados durante el update y deberán ser revisados minucioisamente después del update para evitar errores. Las modificaciones que están en conflicto con la versión del upgrade y que aparece en las herramientas SPAU y SPDD aparecerán en esta categoría.
 
 #### Details - Modifications / Custom Developments
 
