@@ -109,7 +109,31 @@ En esta sección nos muestra los objetos que se deben analizar y los divide en o
 
 ##### Detail
 
-Para acceder al detalle se puede acceder mediente el desplegable
+Para acceder al detalle se puede acceder mediente el desplegable:
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/c607f3e8e49fe0173c2fd3998d6fd41cc3d54fd9/images/2021-12-20%2017_10_27-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+En esta sección nos muestra los objetos que se deben analizar y los divide en objetos que pertenecen a la SPDD, a la SPAU y el impacto por aplicación.
+
+**Modifications**
+
+En modifications lo primero que muestra es una estimación de lo que va costar pasar la SPAU y la SPDD.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/038dcc16b02da9d67b67be45ac0f16a295c6f812/images/2021-12-20%2017_16_16-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/039b8a8259019b204df1453a15172990589a071b/images/2021-12-20%2017_17_41-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+A continuación se muestra el impacto de las modificaciones a realizar durante la SPAU por módulo.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/eaf337c21981870447c4dc2fe022bda679f4aa1f/images/2021-12-20%2017_20_05-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+A continuación se muestra el impacto de las modificaciones a realizar durante la SPDD por módulo.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/3007888478a0c492e2ae6d0ab1f9a1b8b012a002/images/2021-12-20%2017_22_26-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Por último muestra una lista de los objetos impactados.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/8bc5f885248a832494e06a609454b35c38e71bfc/images/2021-12-20%2017_23_49-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 #### Test Management
 
