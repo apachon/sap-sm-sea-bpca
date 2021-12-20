@@ -115,6 +115,10 @@ Para acceder al detalle se puede acceder mediente el desplegable:
 
 En esta sección nos muestra los objetos que se deben analizar y los divide en objetos que pertenecen a la SPDD, a la SPAU y el impacto por aplicación.
 
+Dentro de este detalle hay dos pestañas.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/184db0d66317129c1574ef4aa0a282b8361f5938/images/2021-12-20%2017_26_15-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
 **Modifications**
 
 En modifications lo primero que muestra es una estimación de lo que va costar pasar la SPAU y la SPDD.
@@ -134,6 +138,14 @@ A continuación se muestra el impacto de las modificaciones a realizar durante l
 Por último muestra una lista de los objetos impactados.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/8bc5f885248a832494e06a609454b35c38e71bfc/images/2021-12-20%2017_23_49-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+**Custom Developments**
+
+
+
+
+
+
 
 #### Test Management
 
