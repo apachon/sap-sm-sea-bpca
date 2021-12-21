@@ -139,7 +139,29 @@ Por último muestra una lista de los objetos impactados.
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/8bc5f885248a832494e06a609454b35c38e71bfc/images/2021-12-20%2017_23_49-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
-##### **Custom Developments**
+##### Detail - Custom Developments
+
+Lo primero que se muestra es una estimación en días del esfuerzo de realizar para realizar ajustes y pruebas.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/3543fcd885272028a38a9b17ac660596b9c916f8/images/2021-12-21%2015_28_50-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Lo siguinete que se muestra es un recuento de objetos clasificados por impacto.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/010291b1f1156f59298d57454a8dc502f462d0d0/images/2021-12-21%2015_34_53-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Después de muestra una grafica con el numero de objetos impactados por cada uno de los paquetes de desarrollo.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/7735019d3527afd4e5e27f6e1841521cc43d9091/images/2021-12-21%2015_37_43-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Y el esfuerzo Requerido en cada uno de estos paquetes.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/cf6815ffc92d76cff961e2163edd4ae4ad128c3c/images/2021-12-21%2015_39_51-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Por último se muestra un minucioso detalle de todos los objetos custom a adaptar.
+
+![]()
+
+
 
 
 
