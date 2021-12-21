@@ -159,11 +159,7 @@ Y el esfuerzo Requerido en cada uno de estos paquetes.
 
 Por último se muestra un minucioso detalle de todos los objetos custom a adaptar.
 
-![]()
-
-
-
-
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/ea54947c10ead8dd0d7a0942f6bee6606832bdd2/images/2021-12-21%2015_42_10-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 #### Test Management
 
