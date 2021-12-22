@@ -170,9 +170,7 @@ En este apartado volvemos a tener dos apartados diferenciados, **Overview** y **
 En el primer apartado se muestran tres gráficos:
 
 - Nos muestra la suma del esfuerzo de ejecución de todos los casos de test de los proyectos o soluciones seleccionados en el análisis.
-
 - Proporciona un desglose del esfuerzo de la prueba de todos los procesos impactados con TSO (Test scope optimization).
-
 - Proporciona un desglose del esfuerzo de la prueba de todos los procesos impactados sin TSO (Test scope optimization).
 
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/15ec4e4ef12fb6b677e73f94703705d79aa08ce8/images/2021-12-22%2010_08_44-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
