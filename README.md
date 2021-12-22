@@ -195,7 +195,15 @@ Test Case recomendations.
 
 ##### Detail
 
+En este apartado se muestra una overview del alcance de la prueba y las actividades de mantenimiento.
+En la columna X vemos los procesos de negocio impactados.
+En la columna Y “izquierda” nos muestra el porcentaje de la cobertura de la prueba 
+En la columna Y “derecha” nos muestra el esfuerzo en días que nos supondrá la realización de las pruebas.
+La línea Azul nos muestra la cobertura de las pruebas con puntos en cada paso del proceso.
+La zona verde es el alcance de la prueba seleccionada
+Columnas naranjas es el esfuerzo de las pruebas manuales.
 
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/bef91f8e8d7b18f17a994f598ffd097cf0cd131c/images/2021-12-22%2010_52_59-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 ## BPCA
 
