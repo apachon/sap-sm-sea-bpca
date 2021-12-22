@@ -163,13 +163,39 @@ Por último se muestra un minucioso detalle de todos los objetos custom a adapta
 
 #### Test Management
 
-En este apartado volvemos a tener dos apartados diferenciados, **Overview** y **Deatil**.
+En este apartado volvemos a tener dos apartados diferenciados, **Overview** y **Detail**.
 
 ##### Overview
 
+En el primer apartado se muestran tres gráficos:
 
+- Nos muestra la suma del esfuerzo de ejecución de todos los casos de test de los proyectos o soluciones seleccionados en el análisis.
+
+- Proporciona un desglose del esfuerzo de la prueba de todos los procesos impactados con TSO (Test scope optimization).
+
+- Proporciona un desglose del esfuerzo de la prueba de todos los procesos impactados sin TSO (Test scope optimization).
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/15ec4e4ef12fb6b677e73f94703705d79aa08ce8/images/2021-12-22%2010_08_44-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+En el segundo apartado se muestra el apartado Solution Documentation.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/6083f48eba0e9c54286dda7b850ec61b47e17c93/images/2021-12-22%2010_17_44-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Statistics Test Management.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/eb11bddd99753eda9694d207d1ddd34ebe889ec0/images/2021-12-22%2010_31_56-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Test Scope and Effort with TSO - Full Scope versus Custom Code and Modifications.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/f4b9607d56aa3d1116ad335c1bd9950e50ff7191/images/2021-12-22%2010_33_45-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
+
+Test Case recomendations.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/743c11d519359b91e3b551a33b91d665a5a923eb/images/2021-12-22%2010_35_05-Analysis_%C2%A0ERP_FUSION_SP23_20211216%20-%20Internet%20Explorer.png)
 
 ##### Detail
+
+
 
 ## BPCA
 
