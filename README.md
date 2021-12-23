@@ -307,7 +307,7 @@ Muy parecido al caso anterior, se selecciona la opción **Planned Business Funct
 
 Se selecciona sistema.
 
-![]()
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/3174600509e786366db7215dd3908aa40fb02f0c/images/2021-12-23%2010_06_45-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
 
 Se selecciona BF.
 
