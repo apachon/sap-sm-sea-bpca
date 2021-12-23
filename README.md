@@ -238,7 +238,7 @@ Se identifican 4 casos de uso para los que aplica BPCA:
 4. **Optimización del alcance de las pruebas necesarias por el despliegue de un SP/EhP**.
    Se debe realizar el despliegue de un SP o un EhP SAP. BPCA permite analizar el alcance del impacto de este cambio sobre los procesos de negocio y calcular el esfuerzo a realizar para generar un plan de pruebas optimizado.
 
-### Crear análisis BPCA
+### Crear análisis BPCA - Orden de Transporte
 
 Se accede a la transacción **SM_WORKCENTER - Solution Manager: Work Centers URL** y se accede al tile **Business Process Change Analyzer**.
 
@@ -298,3 +298,27 @@ Vemos un remumen que nos indica cosas interesantes como que crear un script para
 ![](https://github.com/apachon/sap-sm-sea-bpca/blob/0d4ce5a057ebe989a58dc37122d7b777c53cdaba/images/2021-12-14%2017_32_52-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
 
 En el resumen final vemos como nos recomienda que se creen New Automated Test Case para cada transacción el esfuerzo de crear cada uno de ellos, el esfuerzo acumulado, el esfuerzo de probar a mano cada una de las transacciones y el esfuerzo de probarlas una vez automatizadas estas pruebas.
+
+### Crear análisis BPCA - Business Functions
+
+Muy parecido al caso anterior, se selecciona la opción **Planned Business Function Activation (BF a partir de ahora)**.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/a6f74f79c6e428d81e6c05295e28b5d8ba632eb6/images/2021-12-23%2010_04_13-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+Se selecciona sistema.
+
+![]()
+
+Se selecciona BF.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/fd110089d7bdfe5b78f7e8811f7375005f12c12d/images/2021-12-23%2010_08_20-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/4a7f3f3cdef869d5799dc836ed38dad1738dab1b/images/2021-12-23%2010_10_30-Roca%20-%20Manual%20de%20SEA%20y%20BPCA.docx%20-%20Word.png)
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/322b499c829f33ef445794c4d833fad99899bfd2/images/2021-12-23%2010_13_49-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/03606d977dbcb6bb8a222be671f1fc14d4a67b29/images/2021-12-23%2010_15_34-Business%20Process%20Change%20Analyzer%20-%20Internet%20Explorer.png)
+
+Una vez terminado el análisis vemos las transacciones/ejecutables a probar.
+
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/4a72e5ed44ed258833ba3acdd8962f6f82713965/images/2021-12-23%2011_58_02-BPCA_%C2%A0Test%C2%A0Scope%C2%A0Optimization%20-%20Internet%20Explorer.png)
